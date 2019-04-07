@@ -1,2 +1,2 @@
-# classassignments
+# Python
 these contain assignments
